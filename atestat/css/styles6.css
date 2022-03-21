@@ -1,0 +1,59 @@
+body {
+	background-image:url("bk8.jpg");
+	display:inline-block;
+	background-attachment:fixed;
+
+}
+#content{overflow:auto;}
+li{
+	display:inline;
+	margin-left:30px;
+	font-family:courier new;
+	font-size:25px;
+	font-weight:bold;
+	background-color:white;
+	border:1px solid white;
+	border-radius:20px;
+	-webkit-border-radius:20px;
+	padding:5px;
+	color:black;
+}
+.image1, .info1, .image2{
+	display:block;
+	width: 30%;
+	float: left;
+	margin-right:1%;
+}
+
+.info1{
+	background-image:url("bk1.jpg");
+	font-family:arial;
+	font-size:25px;
+	text-align:justify;
+	font-weight:bold;
+}
+.image1{
+	margin-left:55px;
+}
+.img1{
+	width:400px;
+}
+.img2{
+	width:470px;
+	margin-left:170px;
+}
+a:link{
+	text-decoration:none;
+}
+li:hover{
+	color:rgb(255,0,0)
+}
+
+h1{
+	font-family:algerian;
+	font-size:80px;
+	margin-left:600px;
+	color:white;
+}
+h1:hover{color:rgb(255,0,0);}
+a{cursor:help;}

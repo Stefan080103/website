@@ -1,0 +1,28 @@
+body {
+	background-image:url("bk8.jpg");
+	display:inline-block;
+	background-attachment:fixed;
+
+}
+#content{overflow:auto;}
+.logo{
+	display : block;
+	height:200px;
+	margin-left:800px;
+	opacity:0.8;
+}
+.logo:hover{
+	opacity:1.0;
+}
+
+p{
+	background-image:url("bk3.jpg");
+	font-family:arial;
+	font-size:25px;
+	text-align:justify;
+	font-weight:bold;
+	width:1000px;
+	border-style:groove;
+	padding: 10px;
+	margin-left:460px;
+}

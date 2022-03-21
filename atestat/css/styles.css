@@ -1,0 +1,80 @@
+
+body {
+	background-image:  url("https://www.wallpapertip.com/wmimgs/41-412834_motogp-hd-wallpapers-1080p.jpg") ;
+	display:inline-block;
+	background-attachment:fixed;
+
+}
+#content {overflow: auto; }
+
+.center{
+	display: block;
+	margin-right:10px;
+	widtht: 600px;
+	height: 300px;
+	opacity:0.7;
+}
+.center:hover{
+	opacity:1.0;
+}
+
+.column1, .column2{
+	display:block;
+	width: 20%;
+	float: left;
+	margin:1%;
+}
+.column3, .column4{
+	display:block;
+	width: 20%;
+	float: left;
+	margin:1%;
+}
+.moto{
+	display: block;
+	margin-right:10px;
+	widtht: 600px;
+	height: 300px;
+	opacity:0.7;
+}
+.logo{
+	display : block;
+	height:200px;
+	margin-left:800px;
+	opacity:0.8;
+}
+.butonas{
+	height:100px;
+	opacity:0.6;
+}
+.butonas:hover{ opacity:1.0;}
+.logo:hover{
+	opacity:1.0;
+}
+
+.moto:hover{
+	opacity:1.0;
+}
+h1{
+	font-family:monotype corsiva;
+	display: block;
+	text-align:center;
+	margin-left:500px;
+	color: rgb(231,0,0);
+	font-size:130px;
+}
+p{
+	font_family:times new roman;
+	width:500px;
+	text-align:center;
+	margin-left:300px;
+	color: rgb(143,195,40);
+	font-size:25px;
+}
+p.title{
+	display:block;
+	font-family:verdana;
+	margin-left:300px;
+	color:rgb(172,243,30);
+	font-size:30px;
+}

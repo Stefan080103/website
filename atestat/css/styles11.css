@@ -1,0 +1,33 @@
+body {
+	background-image:url("backg.jpg");
+	display:inline;
+	background-attachment:fixed;
+}
+.soon{
+	background-image:url("bk1.jpg");
+	display:inline;
+	margin-left:30px;
+	color:black;
+	font-family:courier new;
+	font-size:25px;
+	font-weight:bold;
+	background-color:white;
+	border:1px solid white;
+	border-radius:20px;
+	-webkit-border-radius:20px;
+	padding:5px;
+}
+.soon:hover{
+	color:rgb(255,0,0)
+}
+.contact{
+	display:block;
+	margin-left:30px;
+	color:white;
+	font-family:serif sans;
+	font-size:40px;
+	font-weight:bold;
+	float:bottom;
+}
+a:link{ text-decoration:none; color:white;}
+a:visited{ color:white;}

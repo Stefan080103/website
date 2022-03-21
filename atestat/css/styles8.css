@@ -1,0 +1,43 @@
+body {
+	background-image:url("bk8.jpg");
+	display:inline-block;
+	background-attachment:fixed;
+
+}
+li{
+	display:inline;
+	margin-left:30px;
+	font-family:courier new;
+	font-size:25px;
+	font-weight:bold;
+	background-color:white;
+	border:1px solid white;
+	border-radius:20px;
+	-webkit-border-radius:20px;
+	padding:5px;
+	color:black;
+}
+a:link{
+	text-decoration:none;
+}
+li:hover{
+	color:rgb(255,0,0)
+}
+
+.records{
+	display:block;
+	margin-left:60px;
+	font-family:courier new;
+	font-size:25px;
+	font-weight:bold;
+	background-image:url("bk1.jpg");
+}
+.records:hover{ color:blue;}
+h1{
+	font-family:algerian;
+	font-size:60px;
+	margin-left:490px;
+	color:white;
+}
+h1:hover{color:rgb(255,0,0);}
+a{cursor:help;}

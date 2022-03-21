@@ -1,0 +1,46 @@
+body {
+	background-image:url("bk8.jpg");
+	display:inline-block;
+	background-attachment:fixed;
+
+}
+li{
+	
+	display:inline;
+	margin-left:30px;
+	font-family:courier new;
+	font-size:25px;
+	font-weight:bold;
+	background-color:white;
+	border:1px solid white;
+	border-radius:20px;
+	-webkit-border-radius:20px;
+	padding:5px;
+	color:black;
+}
+p{
+
+	background-image:url("bk3.jpg");
+	font-family:arial;
+	font-size:25px;
+	text-align:justify;
+	font-weight:bold;
+	width:1200px;
+	border-style:groove;
+	padding: 10px;
+	margin-left:360px;
+}
+h1{
+	font-family:algerian;
+	font-size:60px;
+	margin-left:360px;
+	color:white;
+}
+a:link{
+	text-decoration:none;
+}
+li:hover{
+	color:rgb(255,0,0)
+}
+h1:hover{color:lime;}
+a{cursor:help;}

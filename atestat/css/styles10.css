@@ -1,0 +1,81 @@
+
+body {
+	background-image:  url("marc-marquez-laguna-seca-frontpage.jpg") ;
+	display:inline;
+	background-attachment:fixed;
+}
+#content {overflow: auto; }
+li{
+	background-image:url("bk1.jpg");
+	display:inline;
+	margin-left:30px;
+	color:black;
+	font-family:courier new;
+	font-size:25px;
+	font-weight:bold;
+	background-color:white;
+	border:1px solid white;
+	border-radius:20px;
+	-webkit-border-radius:20px;
+	padding:5px;
+}
+li:hover{
+	color:rgb(255,0,0)
+}
+a:link{ text-decoration:none;}
+.center{
+	display: block;
+	margin-left:30px;
+	widtht: 600px;
+	height: 300px;
+}
+.center2{
+	display: block;
+	margin-left:200px;
+	widtht: 600px;
+	height: 300px;
+}
+
+.column1, .column2{
+	display:block;
+	width: 20%;
+	float: left;
+	margin:1%;
+}
+.column3, .column4{
+	display:block;
+	width: 20%;
+	float: left;
+	margin:1%;
+}
+.column7, .column5{
+	display:block;
+	width: 20%;
+	float: left;
+	margin:1%;
+}
+.gif{
+	display: block;
+	margin-left:200px;
+	height: 300px;
+}
+.gif2{
+	display: block;
+	margin-left:30px;
+	widtht: 600px;
+	height: 300px;
+}
+.gif3{
+	display:block;
+	margin-left:30px;
+	width:500px;
+	height:400px;
+}
+.gif4{
+	display:block;
+	margin-left:600px;
+	widtht: 300px;
+	height:400px;
+	margin-top:19px;
+}
+
